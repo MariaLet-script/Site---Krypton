@@ -1,12 +1,26 @@
 /* --- Paleta de Cores ---
+
+   - Fundo e Estrutura -
    Fundo principal: #101810
    Menu lateral: #172719
+   Fundo dos cards e destaques: #243d27
    Fundo do rodapé: #243d27
+
+   - Interações -
    Fundo ao passar o mouse: #29452b
    Item ativo do menu: #75b843
-   Verde claro: #a6ff75
+   Bordas e divisórias: #29452b
+
+   - Textos e Destaques -
+   Verde claro (títulos e ícones): #a6ff75
    Texto principal: #e5eee2
    Texto secundário: #b5c7ae
+   Texto do item ativo: #101810
+
+   - Bordas -
+   Borda de destaque: #75b843
+   Borda lateral das seções: #75b843
+
 */
 
 
